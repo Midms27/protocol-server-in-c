@@ -1,3 +1,0 @@
-C:/Users/mdms_/Desktop/prog listas/C lista 3/C-protocol-server-tcp/cmake-build-debug/CMakeFiles/C_protocol_server_tcp.dir
-C:/Users/mdms_/Desktop/prog listas/C lista 3/C-protocol-server-tcp/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/mdms_/Desktop/prog listas/C lista 3/C-protocol-server-tcp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
